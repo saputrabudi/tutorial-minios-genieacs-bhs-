@@ -492,7 +492,7 @@ Tutorial ini tersedia secara bebas untuk digunakan dan dimodifikasi.
 
 **⭐ Jika tutorial ini membantu, berikan star pada repository ini! ⭐**
 
-Made with ❤️ for the Indonesian tech community
+by Saputra Budi
 
 </div>
 
